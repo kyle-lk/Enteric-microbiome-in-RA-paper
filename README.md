@@ -1,4 +1,4 @@
-# Enteric-Virome-Bacteriome-interaction-in-RA-paper
+# Enteric-microbiome-in-RA-paper
 
 This github project including the visualization code of "Profiling of Enteric Virome and Virome-Bacteriome Interactions in Rheumatoid Arthritis" (Now, submitted to Nature communications Journal)
 
